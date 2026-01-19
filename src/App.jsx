@@ -247,7 +247,8 @@ export default function Portfolio() {
         }
         
         .glass {
-          background: rgba(255, 255, 255, 0.03);
+          backgrohref="#"
+und: rgba(255, 255, 255, 0.03);
           backdrop-filter: blur(20px);
           border: 1px solid rgba(255, 255, 255, 0.08);
         }
@@ -270,7 +271,7 @@ export default function Portfolio() {
               </button>
             ))}
             <a 
-              href="#" 
+              href="Ashish-Menaria-Resume.pdf" 
               download
               className="group px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full font-bold text-sm pulse-glow hover:scale-105 transition-transform flex items-center gap-2 relative overflow-hidden"
             >
@@ -439,7 +440,8 @@ export default function Portfolio() {
 
           <div className="mt-16 flex justify-center">
             <a
-              href="#"
+               href="/Ashish-Menaria-Resume.pdf"
+              
               download
               className="group relative px-10 py-5 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-600 rounded-2xl font-black text-xl overflow-hidden hover:scale-105 transition-transform"
             >
